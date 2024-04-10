@@ -7,6 +7,9 @@ body {
   background-color: var(--clr-yellow);
   color: black;
   font-family: "Figtree", sans-serif;
+}
+
+main {
   display: flex;
   flex-direction: column;
   justify-content: center;
