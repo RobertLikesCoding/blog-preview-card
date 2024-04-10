@@ -24,7 +24,7 @@ a {
 
 .card {
   place-self: center;
-  max-width: 390px;
+  max-width: 360px;
   min-width: 300px;
   border-radius: 20px;
   background-color: white;
